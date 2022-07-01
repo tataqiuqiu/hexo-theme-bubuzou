@@ -2,7 +2,7 @@ menu:
     博文: /
     归档: /archives/
     # 生活: /categories/live/
-    # 摄影: /categories/film/
+    # 读书: /categories/read/
     # 关于: /about/
 
 widgets:
@@ -14,7 +14,9 @@ widgets:
 # count
 show_count: true
 favicon: /images/favicon.ico
-logo: /images/logo.png
+logo: /images/logo.svg
+# style: https://bubuzou.oss-cn-shenzhen.aliyuncs.com/blog/202010/bubuzou.css
+style: /css/bubuzou.css
 
 # Comment
 #changyan: bubuzou
@@ -31,4 +33,9 @@ ga: UA-65933410-1
 
 # Copyright Infomation
 startyear: 2016
+
+
+
+
+
 
